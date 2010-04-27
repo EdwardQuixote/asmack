@@ -1,3 +1,20 @@
+This repo is a Github fork of the aSmack library maintained by 
+Rene Treffer (http://github.com/rtreffer). 
+
+It contains the additional patches required by the Onesocialweb Android client.
+All the work in the /patch/onesocialweb folder is Copyright Vodafone Group Services Ltd. 2010, 
+and is released under the Apache 2 license.
+
+Questions ? Get in touch with us:
+Website: http://onesocialweb.org
+Email: contact at onesocialweb.org
+List: http://groups.google.com/group/onesocialweb?lnk=srg
+
+
+Below is the original README of the aSmack project.	
+-------------------------------------------------------------------------------
+
+
 aSmack - buildsystem for Smack on Android
 =========================================
 
